@@ -1,6 +1,9 @@
 ### Olá! Eu sou Alexsandro 🤝🏿
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=highcontrast&title_color=blue&text_color=green)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexsandrobaptista&show_icons=true&theme=highcontrast&title_color=blue&text_color=green)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandrobaptista&layout=compact)](https://github.com/alexsandrobaptista/github-readme-stats)
+
+
 
 ## Tecnologias que estou estudando.
 <div style="display: inline_block">
