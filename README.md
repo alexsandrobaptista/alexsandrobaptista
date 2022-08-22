@@ -1,5 +1,7 @@
 ### Olá! Eu sou Alexsandro 🤝🏿
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=highcontrast&title_color=blue&text_color=green)
+
 ## Tecnologias que estou estudando.
 <div style="display: inline_block">
   <img align="center" height=""30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
